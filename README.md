@@ -15,6 +15,13 @@ Here you will find exercises. Download them and try them on your computer!
   - Week 1: Using the print statement. Simple mathematical operations. Combining different objects in a print statement.
   - Week 2: Debugging simple code, practicing list indexing, for loops, while loops and if statements. Collatz conjecture, Fibonacci sequence, greatest common factor, and the first n prime numbers.
   - Week 3: Calculating the weight of an object, calculating the fixed monthly payment on a mortgage, calculating Canadian federal taxes. Calculating the Gaussian distribution of an array of numbers, calculating some useful statistics, calculating the velocity of an object using conservation of energy. Approximating the value of pi. The Central Limit Theorem.
+  
+# Extra Exercises:
+Here you will find extra exercises which should be shorter and easier than the ones found in the Exercises folder
+
+- basics: strings, float, integers. The print statement.
+- if_statements_and_booleans: If statements and Booleans
+- loops: For loops and while loops
 
 # Solutions Folder:
 Here you will find my solutions to the weekly exercises. Keep in mind that there are often many different ways to solve a problem, so your solution may be just as good as mine.
