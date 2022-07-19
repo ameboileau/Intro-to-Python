@@ -16,6 +16,7 @@ Here you will find exercises. Download them and try them on your computer!
   - Week 1: Using the print statement. Simple mathematical operations. Combining different objects in a print statement.
   - Weeks 2-3: Debugging simple code, practicing list indexing, for loops, while loops and if statements. Collatz conjecture, Fibonacci sequence, greatest common factor, and the first n prime numbers.
   - Week 4: Calculating the weight of an object, calculating the fixed monthly payment on a mortgage, calculating Canadian federal taxes. Calculating the Gaussian distribution of an array of numbers, calculating some useful statistics, calculating the velocity of an object using conservation of energy.
+  - Week 5: Calculating probabilities related to dice tossing, manipulating a phone book, calculating the partial sums of convergent/divergent series.
   
 # Extra Exercises:
 Here you will find extra exercises which should be shorter and easier than the ones found in the Exercises folder
