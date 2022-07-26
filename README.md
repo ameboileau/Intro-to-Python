@@ -2,6 +2,9 @@
 
 Here you will find weekly exercises to help build your programming skills!
 
+## git_merge file:
+Here you will find written instructions on how to fix a git merge error. These instructions may not work for 100% of cases, so feel free to use Google whenever you get stuck!
+
 ## PPT Folder:
 Here you will find all PowerPoint lectures. Feel free to consult them whenever you need a refresher!
 
@@ -9,6 +12,7 @@ Here you will find all PowerPoint lectures. Feel free to consult them whenever y
   - Weeks 2-3: Pulling/pushing using git. Python error codes. Lists and booleans. For loops, while loops, and if statements.
   - Week 4: Functions and packages (numpy)
   - Week 5: Review
+  - Week 6: pandas and DataFrame objects, file import/export
 
 ## Exercises Folder:
 Here you will find exercises. Download them and try them on your computer!
@@ -17,6 +21,7 @@ Here you will find exercises. Download them and try them on your computer!
   - Weeks 2-3: Debugging simple code, practicing list indexing, for loops, while loops and if statements. Collatz conjecture, Fibonacci sequence, greatest common factor, and the first n prime numbers.
   - Week 4: Calculating the weight of an object, calculating the fixed monthly payment on a mortgage, calculating Canadian federal taxes. Calculating the Gaussian distribution of an array of numbers, calculating some useful statistics, calculating the velocity of an object using conservation of energy.
   - Week 5: Calculating probabilities related to dice tossing, manipulating a phone book, calculating the partial sums of convergent/divergent series.
+  - Week 6: Creating and editing a DataFrame of songs, a DataFrame of colours, and a DataFrame of monthly expenses. Loading a book DataFrame from Excel; writing functions to consume the book DataFrame more efficiently. Working with MSF DataFrames and computing certain important quantities.
   
 ## Extra Exercises:
 Here you will find extra exercises which should be shorter and easier than the ones found in the Exercises folder
