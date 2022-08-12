@@ -29,6 +29,7 @@ Here you will find extra exercises which should be shorter and easier than the o
   - basics: strings, float, integers. The print statement.
   - if_statements_and_booleans: If statements and Booleans
   - loops: For loops and while loops
+  - functions: Writing and reading/understanding Python functions
 
 ## Challenges:
 Here you will find especially challenging exercises that put everything you've learned in practice
