@@ -2,7 +2,7 @@
 
 Here you will find weekly exercises to help build your programming skills!
 
-## git_merge file:
+## git_merge PDF file:
 Here you will find written instructions on how to fix a git merge error. These instructions may not work for 100% of cases, so feel free to use Google whenever you get stuck!
 
 ## PPT Folder:
