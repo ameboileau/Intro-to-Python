@@ -13,6 +13,7 @@ Here you will find all PowerPoint lectures. Feel free to consult them whenever y
   - Week 4: Functions and packages (numpy)
   - Week 5: Review
   - Week 6: pandas and DataFrame objects, file import/export
+  - Week 9: Visual Studio Code, the enumerate function, try-and-except blocks, testing your code
 
 ## Exercises Folder:
 Here you will find exercises. Download them and try them on your computer!
@@ -22,6 +23,8 @@ Here you will find exercises. Download them and try them on your computer!
   - Week 4: Calculating the weight of an object, calculating the fixed monthly payment on a mortgage, calculating Canadian federal taxes. Calculating the Gaussian distribution of an array of numbers, calculating some useful statistics, calculating the velocity of an object using conservation of energy.
   - Week 5: Calculating probabilities related to dice tossing, manipulating a phone book, calculating the partial sums of convergent/divergent series.
   - Week 6: Creating and editing a DataFrame of songs, a DataFrame of colours, and a DataFrame of monthly expenses. Loading a book DataFrame from Excel; writing functions to consume the book DataFrame more efficiently. Working with MSF DataFrames and computing certain important quantities.
+  - Week 9: Simple functions using VSCode (manipulating strings and lists), practicing the enumerate function on lists, practicing try and except blocks.
+  - Final Quiz: A series of 6 questions to put all your skills to the test!
   
 ## Extra Exercises:
 Here you will find extra exercises which should be shorter and easier than the ones found in the Exercises folder
